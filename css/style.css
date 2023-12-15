@@ -1,0 +1,39 @@
+@charset "utf-8";
+#anaDiv{
+	height: auto;
+	width: 1920px;	
+	}
+
+#Header {
+	height: 200px;
+	width: 1920px;
+}	
+
+#logo {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+#banner{
+	height: 200px;
+	width: 1720px;
+	float: left;
+	}
+	
+#icerik1Dİv{
+	float: left;
+	height: auto;
+	width: 1920px;	
+	}
+
+#icerikDiv {
+	height: auto;
+	width: 1720px;
+	float: left;
+}
+#menuDiv {
+	float: left;
+	height: auto;
+	width: 200px;
+}
