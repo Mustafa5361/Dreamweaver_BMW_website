@@ -11,13 +11,15 @@
 <body>
 <div id="anaDiv">
   <div id="Header">
-    <div id="logo"><a href = "index.html"><img src = "../resimler/logolar/bmwLogo.png" width="180" /></a></div>
+  
+    <div id="logo"><a href = "../index.html"><img src = "../resimler/logolar/bmwLogo.png" width="180" /></a></div>
+    
     <div id="banner"><img src="../resimler/banner/banner.jpg" width="1520" /></div>
   </div>
   <div id="icerik1Dİv">
     <div id="menuDiv">
       <ul id="MenuBar1" class="MenuBarVertical">
-        <li><a class="MenuBarItemSubmenu" href="#">Modeller</a>
+        <li><a class="MenuBarItemSubmenu" href="../modeller/modeller.html">Modeller</a>
           <ul>
             <li><a href="#">1 Series</a></li>
             <li><a href="#">2 Series</a></li>
