@@ -1,0 +1,33 @@
+@charset "utf-8";
+.resimBaslik{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+
+.resimAciklama{
+	
+	font-weight: bold;
+	
+}
+
+.aciklamaBaslik{
+	font-size:20px;
+	font-weight: bold;
+	
+	
+}
+
+.aciklama{
+	
+	font-family:arial;
+	font-size:17px;
+	
+}
+
+.icerik{
+	
+	font-family:arial;
+	font-size:20px;
+	
+}
