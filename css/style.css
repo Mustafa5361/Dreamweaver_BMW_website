@@ -5,26 +5,26 @@
 	}
 
 #Header {
-	height: 180px;
-	width: 1700px;
+	height: auto;
+	width: 100%;
 }	
 
 #logo {
-	height: 180px;
+	height: auto;
 	width: 180px;
 	float: left;
 }
 
 #banner{
-	height: 180px;
 	width: 1520px;
 	float: left;
+	height: auto;
 	}
 	
 #icerik1Dİv{
-	float: left;
 	height: auto;
 	width: 1700px;
+	clear: both;
 	}
 
 #icerikDiv {
