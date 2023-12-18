@@ -1,48 +1,46 @@
 @charset "utf-8";
 #anaDiv{
 	height: auto;
-	width: 1700px;
-	margin-right: auto;
-	margin-left: auto;
+	width: 98%;
 	}
 
 #Header {
-	height: 180px;
 	width: 100%;
+	height: auto;
 }	
 
 #logo {
-	height: 180px;
-	width: 180px;
+	width: 10%;
+	height: auto;
 	float: left;
 }
 
 #banner{
-	width: 1520px;
+	width: 90%;
+	height: auto;
 	float: left;
-	height: 180px;
 	}
 	
 #icerik1Dİv{
 	height: auto;
-	width: 1700px;
+	width: 100%;
 	clear: both;
 	}
 
 #icerikDiv {
 	height: auto;
-	width: 1520px;
+	width: 90%;
 	float: left;
 }
 #menuDiv {
 	float: left;
 	height: auto;
-	width: 180px;
+	width: 10%;
 }
 
 #fooder {
 	clear: both;
-	width: 1700px;
+	width: 100%;
 	background-color: #CCC;
 }
 
