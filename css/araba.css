@@ -1,24 +1,40 @@
 @charset "utf-8";
+.baslik{
+	margin-left:100px;
+	font-size: 70px;
+	font-weight: bold;
+}
+
 .resimBaslik{
 	font-size: 20px;
 	font-weight: bold;
-	
 }
 
 .resimAciklama{
-	
 	font-weight: bold;
-	
 }
 
 .aciklamaBaslik{
 	font-size:20px;
 	font-weight: bold;
 	
-	
 }
 
 .aciklama{
+	
+	font-family:arial;
+	font-size:17px;
+	
+}
+
+.miniAciklamaBaslik{
+	font-size:20px;
+	font-weight: bold;
+	
+	
+}
+
+.miniAciklama{
 	
 	font-family:arial;
 	font-size:17px;
