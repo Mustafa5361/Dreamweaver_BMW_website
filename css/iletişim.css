@@ -1,0 +1,64 @@
+@charset "utf-8";
+.iletisimDiv{
+	width:100%;
+	height:auto;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+.kısaBilgilerDiv{
+	width:95%;
+	height:auto;
+	margin:2,5%;
+}
+
+.formDiv{
+	width:95%;
+	height:auto;
+	margin-top:50px;
+}
+
+.iletisimText{
+	font-family:arial;
+	font-size:15px;
+	font-weight:600; 
+	
+}
+
+.iletisimTable{
+	margin-top:100px;
+}
+
+.iletisimBilgieri{
+	background-color:blue;
+	
+}
+
+.iletisimBilgieri:Hover{
+	background-color:red;
+	
+}
+
+.formIcerik{
+	width:90%;
+	height:40px;
+	border-width:1px;
+	border-color:#aaaaaa ;
+}
+
+.formText{
+	font-family:arial;
+	font-size:20px;
+	
+}
+
+.dugmeler{
+	width :150px;
+	height:40px;
+	
+}
+
+.textarea{
+	width:90%;
+	height:100px;
+}
