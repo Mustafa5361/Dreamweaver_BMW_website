@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+.anaBaslik{
+	font-size:50px;
+	font-family:arial;
+	
+}
+
+.arabaBaslik{
+	font-size:50px;
+	font-family:arial;
+	margin-left:10px;
+	
+}
+
+.arabaAciklama{
+	font-size:25px;
+	font-family:arial;
+	margin-left:10px;
+	
+}
+
+.arabaDugme{
+	color:white;
+	font-size:20px;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:none;
+	background-color:blue;
+	margin-left:10px;
+	padding:15px 80px;
+	
+}
+
+.arabaDugme:Hover{
+	background-color:darkblue;
+	border-color:black;
+	border-style:solid;
+}
+
+.table{
+	width:85%;
+	margin-bottom:100px;
+	
+}
