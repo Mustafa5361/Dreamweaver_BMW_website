@@ -1,0 +1,25 @@
+<table border = "0" width = "75%" cellpadding = "10" align = "center" >
+		
+		<tr>
+			
+			<td width = "30%" ><img src = "../../resimler/modeller/X/XM/MXtavan.jpg" width = "100%" ></td>
+			<td width = "30%" ><img src = "../../resimler/modeller/X/XM/MXmkoltuk.jpg" width = "100%" ></td>
+			<td width = "30%" ><img src = "../../resimler/modeller/X/XM/MXozelderi.jpg" width = "100%" ></td>
+			
+		</tr>
+		<tr>
+			
+			<td align = "center" ><a class = "aciklamaBaslik">  Olağanüstü motor gücü.  </a></td>
+			<td align = "center" ><a class = "aciklamaBaslik">  İddialı karakteri tam olarak yansıtan bir görünüm.  </a></td>
+			<td align = "center" ><a class = "aciklamaBaslik">  Individual renkleri.  </a></td>
+			
+		</tr>
+		<tr>
+			
+			<td align = "justify" valign = "top" ><a class = "aciklama"></a></td>
+			<td align = "justify" valign = "top" ><a class = "aciklama"></a></td>
+			<td align = "justify" valign = "top" ><a class = "aciklama"></a></td>
+			
+		</tr>
+		
+	</table>
