@@ -38,7 +38,7 @@
 	width: 10%;
 }
 
-#fooder {
+#footer {
 	clear: both;
 	width: 100%;
 	background-color:#CCC;
@@ -57,13 +57,25 @@
 .arabaAnaBaslik{
 	font-size: 30px;
 	color: #333;
-	}	
+}	
+
 .motorAnaBaslik{
 	font-size: 30px;
 	color: #333;
-	}	
+}	
+
 .motorAdı{
 	font-size: 20px;
 	color: #333;
-	}
+}
 	
+.buton{
+	font-size:25px;
+	text-decoration:none;
+	color:#0000CD;
+}
+
+.buton:hover{
+	color:#1E90FF;
+	text-decoration:none;
+}

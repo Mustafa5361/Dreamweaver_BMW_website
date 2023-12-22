@@ -1,2 +1,5 @@
 Açık Mavi = #1E90FF
 Koyu Mavi = #0000CD
+
+açık kırmızı = #CD0000
+koyu kırmızı = #B81414
