@@ -1,1 +1,2 @@
 modeller - elektrikli modeller - motorlar = width = "480" height = "300"
+Banner = width = "1720" height = "200"
