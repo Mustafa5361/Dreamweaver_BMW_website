@@ -15,13 +15,17 @@
 }
 
 .aciklamaBaslik{
-	font-size:20px;
+	font-size:22px;
 	font-weight: bold;
 	
 }
 
+.aciklamaAltBaslik{
+	font-family:arial;
+	font-size:20px;
+}
+
 .aciklama{
-	
 	font-family:arial;
 	font-size:17px;
 	
@@ -31,24 +35,16 @@
 	font-size:20px;
 	font-weight: bold;
 	
-	
 }
 
 .miniAciklama{
-	
 	font-family:arial;
 	font-size:17px;
 	
 }
 
 .icerik{
-	
 	font-family:arial;
 	font-size:20px;
 	
-}
-
-.slider{
-	width:90%;
-	height:auto;
 }
