@@ -9,9 +9,9 @@
 		</tr>
 		<tr>
 			
-			<td align = "center" ><a class = "aciklamaBaslik">Olağanüstü motor gücü.</a></td>
-			<td align = "center" ><a class = "aciklamaBaslik">İddialı karakteri tam olarak yansıtan bir görünüm.</a></td>
-			<td align = "center" ><a class = "aciklamaBaslik">Individual renkleri.</a></td>
+			<td align = "center" ><a class = "aciklamaBaslik">  Olağanüstü motor gücü.  </a></td>
+			<td align = "center" ><a class = "aciklamaBaslik">  İddialı karakteri tam olarak yansıtan bir görünüm.  </a></td>
+			<td align = "center" ><a class = "aciklamaBaslik">  Individual renkleri.  </a></td>
 			
 		</tr>
 		<tr>
