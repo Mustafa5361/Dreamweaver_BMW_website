@@ -1,0 +1,48 @@
+@charset "utf-8";
+.resimAnaDiv{
+	width:85%;
+	height:auto;
+	margin:auto;
+	border-style:solid;
+}
+
+.yaziDiv{
+	width:25%;
+	height:auto;
+	float:left;
+}
+
+.baslikDiv h1{
+	font-size:60px;
+	font-style:arial;
+}
+
+.baslikDiv h3{
+	font-size:50px;
+	font-style:arial;
+}
+
+.baslikDiv p{
+	font-size:30px;
+	font-style:arial;
+}
+
+.clearDiv{
+	clear:both;
+	
+}
+
+.resimDiv1{
+	width:48%;
+	height:auto;
+	float:left;
+	margin-left:300px;
+	margin-top:350px;
+}
+
+.resimDiv2{
+	width:48%;
+	height:auto;
+	float:left;
+	margin-right:200px;
+}

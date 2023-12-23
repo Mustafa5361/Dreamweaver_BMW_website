@@ -58,10 +58,10 @@
           <ul>
             <li><a href="../kataloglar.html">Katologlar</a></li>
             <li><a href="../onlineHizmetler/MYBMW.html">MY BMW</a></li>
+            <li><a href="../onlineHizmetler/fiyatListesi.html">Fiyat Listesi</a></li>
           </ul>
         </li>
-        <li><a href="#">BMW'yi Tanı</a></li>
-        <li><a href="../iletişim.html">İletişim</a></li>
+        <li><a href="../iletişim.html">İletişim</a></li>	
       </ul>
     </div>
     <div id="icerikDiv"><!-- TemplateBeginEditable name="icerik" -->icerik<!-- TemplateEndEditable --></div>
