@@ -1,24 +1,60 @@
-<table border = "0" width = "75%" cellpadding = "10" align = "center" >
+<table border = "0" width = "90%" cellspacing = "30" >
 		
 		<tr>
 			
-			<td width = "30%" ><img src = "../../resimler/modeller/X/XM/MXtavan.jpg" width = "100%" ></td>
-			<td width = "30%" ><img src = "../../resimler/modeller/X/XM/MXmkoltuk.jpg" width = "100%" ></td>
-			<td width = "30%" ><img src = "../../resimler/modeller/X/XM/MXozelderi.jpg" width = "100%" ></td>
+			<td colspan = "4" ><a class = "fiyatBaslik">BİLGİ VE TEKLİF ALIN.</a></td>
 			
 		</tr>
 		<tr>
 			
-			<td align = "center" ><a class = "aciklamaBaslik">  Olağanüstü motor gücü.  </a></td>
-			<td align = "center" ><a class = "aciklamaBaslik">  İddialı karakteri tam olarak yansıtan bir görünüm.  </a></td>
-			<td align = "center" ><a class = "aciklamaBaslik">  Individual renkleri.  </a></td>
+			<td colspan = "4" ><a class = "fiyatAcıklama">BMW 1 Serisi, şimdi size özel teklif ve finansman koşulları ile Borusan Otomotiv BMW Yetkili Satıcılarında. Takas indirimi veya kredi avantajlarından yararlanmak* ve detaylı bilgi almak için formumuzu doldurun, biz sizi arayalım.</a></td>
 			
 		</tr>
 		<tr>
 			
-			<td align = "justify" valign = "top" ><a class = "aciklama"></a></td>
-			<td align = "justify" valign = "top" ><a class = "aciklama"></a></td>
-			<td align = "justify" valign = "top" ><a class = "aciklama"></a></td>
+			<td width = "25%" ><a class = "fiyatTabloBaslik">Kredi Tutarı</a></td>
+			<td width = "25%" ><a class = "fiyatTabloBaslik">Vade</a></td>
+			<td width = "25%" ><a class = "fiyatTabloBaslik">Faiz Oranı</a></td>
+			<td width = "25%" ><a class = "fiyatTabloBaslik">Aylık Ödeme Tutarı</a></td>
+			
+		</tr>
+		<tr>
+			
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >500.000 TL</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >6 Ay</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >%0,00</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >83.333 TL</a></td>
+			
+		</tr>
+		<tr>
+			
+			<td colspan = "4" ><hr size = "1" color = "#aaaaaa" ></td>
+			
+		</tr>
+		<tr>
+			
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >500.000 TL</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >12 Ay</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >%1,89</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >47.235 TL</a></td>
+			
+		</tr>
+		<tr>
+			
+			<td colspan = "4" ><hr size = "1" color = "#aaaaaa" ></td>
+			
+		</tr>
+		<tr>
+			
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >500.000 TL</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >24 Ay</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >%3,29</a></td>
+			<td width = "25%" ><a class = "fiyatTabloAciklama" >30.988 TL</a></td>
+			
+		</tr>
+		<tr>
+			
+			<td colspan = "4" ><hr size = "1" color = "#aaaaaa" ></td>
 			
 		</tr>
 		
