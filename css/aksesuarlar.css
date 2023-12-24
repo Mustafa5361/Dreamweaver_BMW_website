@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+.urunBaslik{
+	font-size:70px;
+	font-family:arial;
+	color:black;
+	
+}
+
+.dısCizgi{
+	border-style:solid;
+	border-width:1px;
+	
+}
+
+.urunAdi{
+	font-size:30px;
+	font-family:arial;
+	color:black;
+	
+}
+
+.urunFiyatİndirim{
+	font-size:17px;
+	font-family:arial;
+	color:#aaaaaa;
+	
+}
+
+.urunFiyat{
+	font-size:20px;
+	font-family:arial;
+	color:black;
+	
+}

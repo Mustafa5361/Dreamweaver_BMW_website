@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.anaBaslik{
+	font-size:70px;
+	font-family:arial;
+}
+
+.altBaslik{
+	font-size:40px;
+	font-family:arial;
+	color:#aaaaaa;
+}
+
+.icerik{
+	font-size:20px;
+	font-family:arial;
+	
+}
+
+.buyukYazi{
+	font-size:70px;
+	font-family:arial;
+	font-weight:bold;
+	
+}
