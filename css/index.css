@@ -23,3 +23,21 @@
 	font-weight:bold;
 	
 }
+
+.dugme{
+	color:white;
+	font-size:20px;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:none;
+	background-color:blue;
+	padding:15px 80px;
+	
+}
+
+.dugme:Hover{
+	background-color:darkblue;
+	border-color:black;
+	border-style:solid;
+	
+}
