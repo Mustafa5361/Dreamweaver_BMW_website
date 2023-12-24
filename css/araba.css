@@ -80,21 +80,27 @@
 }
 
 .fiyatBaslik{
-	
+	font-size:30px;
+	font-family:arial;
+	font-weight:bold;
 	
 }
 
 .fiyatAcıklama{
-	
+	font-size:18px;
+	font-family:arial;
 	
 }
 
 .fiyatTabloBaslik{
-	
+	font-size:25px;
+	font-family:arial;
+	font-weight:bold;
 	
 }
 
 .fiyatTabloAciklama{
-	
+	font-size:18px;
+	font-family:arial;
 	
 }
