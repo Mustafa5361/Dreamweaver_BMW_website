@@ -1,15 +1,19 @@
 @charset "utf-8";
 
+.anaTable{
+	width:98%;
+}
+
 .urunBaslik{
 	font-size:70px;
 	font-family:arial;
 	color:black;
-	
 }
 
 .dısCizgi{
 	border-style:solid;
 	border-width:1px;
+	
 	
 }
 
@@ -23,13 +27,25 @@
 .urunFiyatİndirim{
 	font-size:17px;
 	font-family:arial;
+	text-decoration:line-through;
 	color:#aaaaaa;
 	
 }
 
-.urunFiyat{
+.urunFiyat h1{
 	font-size:20px;
 	font-family:arial;
 	color:black;
+	float:right;
 	
 }
+
+.urunFiyat h2{
+	font-size:17px;
+	font-family:arial;
+	text-decoration:line-through;
+	color:#aaaaaa;
+	float:right;
+	margin-right:15px;
+}
+
