@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+.anaBaslik{
+	font-weight:bold;
+	font-size:50px;
+}
+
+.tabloAnaBaslik{
+	margin-left:20px;
+	font-size:35px;
+	font-weight:bold;
+}
+
+.tabloAciklamaModelTD{
+	width:11%;
+	border:1px solid #aaaaaa;
+	
+}
+
+.tabloBaslik{
+	font-size:20px;
+	font-weight:bold;
+	
+}
+
+.tabloAciklamaTD{
+	width:11%;
+	border:1px solid #aaaaaa;
+	
+}
+
+.tabloAciklama{
+	
+	
+}
