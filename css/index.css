@@ -42,9 +42,10 @@
 	
 }
 
-/* ana ekrandakş arkaya video gömme olayı */
+/* ana ekrandaki arkaya gömülen Video */
 
 .videoAnaDiv{
+	margin-top:-100px;
 	height:700px;
 	width:98%;
 	margin-left:auto;
